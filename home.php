@@ -72,7 +72,7 @@
                     <div class="col-10 border-bottom"></div>
                 </div>
                 <div class="row mt-3">
-                    <div class="col-2 mt-4">
+                    <div class="col-sm-2 mt-4">
                         <a href="#" class="text-decoration-none text-dark text-left">
                             <div class="card" style="max-width:189px;">
                                 <img src="https://static-01.shop.com.mm/p/96610bd6d12a167f8f3360f544a1515f.jpg_400x400q75-product.jpg_.webp"  style="max-height:189px;" class="card-img-top" alt="...">
@@ -88,7 +88,7 @@
                             </div>
                         </a>
                     </div>
-                    <div class="col-2 mt-4">
+                    <div class="col-sm-2 mt-4">
                         <a href="#" class="text-decoration-none text-dark text-left">
                             <div class="card" style="max-width:189px;">
                                 <img src="https://static-01.shop.com.mm/p/61f058b37cf2339614c93af79fdcc2f4.jpg_400x400q75-product.jpg_.webp"  style="max-height:189px;" class="card-img-top" alt="...">
@@ -104,7 +104,7 @@
                             </div>
                         </a>
                     </div>
-                    <div class="col-2 mt-4">
+                    <div class="col-sm-2 mt-4">
                         <a href="#" class="text-decoration-none text-dark text-left">
                             <div class="card" style="max-width:189px;">
                                 <img src="https://static-01.shop.com.mm/p/edffed69731ec35261428360a5cb1d18.jpg_400x400q75-product.jpg_.webp"  style="max-height:189px;" class="card-img-top" alt="...">
@@ -120,7 +120,7 @@
                             </div>
                         </a>
                     </div>
-                    <div class="col-2 mt-4">
+                    <div class="col-sm-2 mt-4">
                         <a href="#" class="text-decoration-none text-dark text-left">
                             <div class="card" style="max-width:189px;">
                                 <img src="https://static-01.shop.com.mm/p/d94eccea29e6d7752a5ed3cd11d1e8f5.jpg_400x400q75-product.jpg_.webp"  style="max-height:189px;" class="card-img-top" alt="...">
@@ -136,7 +136,7 @@
                             </div>
                         </a>
                     </div>
-                    <div class="col-2 mt-4">
+                    <div class="col-sm-2 mt-4">
                         <a href="#" class="text-decoration-none text-dark text-left">
                             <div class="card" style="max-width:189px;">
                                 <img src="https://static-01.shop.com.mm/p/0d81ed6fe7fdecc01ea8b693fbf02ffc.jpg_400x400q75-product.jpg_.webp"  style="max-height:189px;" class="card-img-top" alt="...">
@@ -152,7 +152,7 @@
                             </div>
                         </a>
                     </div>
-                    <div class="col-2 mt-4">
+                    <div class="col-sm-2 mt-4">
                         <a href="#" class="text-decoration-none text-dark text-left">
                             <div class="card" style="max-width:189px;">
                                 <img src="https://static-01.shop.com.mm/p/96610bd6d12a167f8f3360f544a1515f.jpg_400x400q75-product.jpg_.webp"  style="max-height:189px;" class="card-img-top" alt="...">
@@ -168,7 +168,7 @@
                             </div>
                         </a>
                     </div>
-                    <div class="col-2 mt-4">
+                    <div class="col-sm-2 mt-4">
                         <a href="#" class="text-decoration-none text-dark text-left">
                             <div class="card" style="max-width:189px;">
                                 <img src="https://static-01.shop.com.mm/p/96610bd6d12a167f8f3360f544a1515f.jpg_400x400q75-product.jpg_.webp"  style="max-height:189px;" class="card-img-top" alt="...">
@@ -184,7 +184,7 @@
                             </div>
                         </a>
                     </div>
-                    <div class="col-2 mt-4">
+                    <div class="col-sm-2 mt-4">
                         <a href="#" class="text-decoration-none text-dark text-left">
                             <div class="card" style="max-width:189px;">
                                 <img src="https://static-01.shop.com.mm/p/96610bd6d12a167f8f3360f544a1515f.jpg_400x400q75-product.jpg_.webp"  style="max-height:189px;" class="card-img-top" alt="...">
@@ -200,7 +200,7 @@
                             </div>
                         </a>
                     </div>
-                    <div class="col-2 mt-4">
+                    <div class="col-sm-2 mt-4">
                         <a href="#" class="text-decoration-none text-dark text-left">
                             <div class="card" style="max-width:189px;">
                                 <img src="https://static-01.shop.com.mm/p/96610bd6d12a167f8f3360f544a1515f.jpg_400x400q75-product.jpg_.webp"  style="max-height:189px;" class="card-img-top" alt="...">
@@ -216,7 +216,7 @@
                             </div>
                         </a>
                     </div>
-                    <div class="col-2 mt-4">
+                    <div class="col-sm-2 mt-4">
                         <a href="#" class="text-decoration-none text-dark text-left">
                             <div class="card" style="max-width:189px;">
                                 <img src="https://static-01.shop.com.mm/p/96610bd6d12a167f8f3360f544a1515f.jpg_400x400q75-product.jpg_.webp"  style="max-height:189px;" class="card-img-top" alt="...">
@@ -232,7 +232,7 @@
                             </div>
                         </a>
                     </div>
-                    <div class="col-2 mt-4">
+                    <div class="col-sm-2 mt-4">
                         <a href="#" class="text-decoration-none text-dark text-left">
                             <div class="card" style="max-width:189px;">
                                 <img src="https://static-01.shop.com.mm/p/96610bd6d12a167f8f3360f544a1515f.jpg_400x400q75-product.jpg_.webp"  style="max-height:189px;" class="card-img-top" alt="...">
@@ -248,7 +248,7 @@
                             </div>
                         </a>
                     </div>
-                    <div class="col-2 mt-4">
+                    <div class="col-sm-2 mt-4">
                         <a href="#" class="text-decoration-none text-dark text-left">
                             <div class="card" style="max-width:189px;">
                                 <img src="https://static-01.shop.com.mm/p/96610bd6d12a167f8f3360f544a1515f.jpg_400x400q75-product.jpg_.webp"  style="max-height:189px;" class="card-img-top" alt="...">
