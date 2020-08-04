@@ -34,6 +34,24 @@
             color:#f57100;
             text-decoration:underline;
             font-size:18px;
+            font-weight:300px;
+        }
+        #favourite{
+            font-size:20px;
+        }
+        #favourite:hover{
+            color:red;
+        }
+        #favourite:active{
+            color:red;
+        }
+        #buy_now{
+            background:#f57100;
+            color:white;
+            border:0;
+        }
+        #buy_now:hover{
+            background:#dd6600;
         }
     </style>
 </head>
